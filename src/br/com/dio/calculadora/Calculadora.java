@@ -38,4 +38,3 @@ public class Calculadora {
 	}
 
 }
-s
