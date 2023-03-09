@@ -23,3 +23,6 @@ das 3 IDE`s da introducao do curso pra comecar a me aprofundar nos codigos.
 Ainda nao sei botar acento nas palavras utilizando o kali (.-.)
 
 segue o rumo, tamo junto.
+
+Seguindo.. estou editando agora com o VScode, mexendo e "fucando" sozinho 
+antes de assistir a aula.
