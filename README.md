@@ -12,3 +12,14 @@ Inclusive este documento esta sendo criado pelo comando
 "touch" e editado pelo comando "nano", dentro do kali.
 
 tamo junto.
+
+Dia 09/03/2023, 01:00
+
+Hoje tive que re-instalar toda minha maquina por conta de um erro (._.)
+mas foi bom pra ver se eu ainda lembrava dos comandos das aulas passadas,
+criacao de chave ssh, e sincronizacao com o githu, etc... Alem disso vou 
+entrar na parte do VScode, e acho que na sequencia vou ter que escolher uma 
+das 3 IDE`s da introducao do curso pra comecar a me aprofundar nos codigos. 
+Ainda nao sei botar acento nas palavras utilizando o kali (.-.)
+
+segue o rumo, tamo junto.
